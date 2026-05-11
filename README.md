@@ -11,7 +11,7 @@ This project demonstrates how to containerize a MERN-style application using Doc
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 - React.js
 - Node.js
@@ -22,7 +22,7 @@ This project demonstrates how to containerize a MERN-style application using Doc
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```bash
 sample-app/
@@ -43,7 +43,7 @@ sample-app/
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## 1. Clone Repository
 
@@ -57,7 +57,7 @@ cd sample-app
 
 ---
 
-# 🐳 Run with Docker Compose
+# Run with Docker Compose
 
 ## Build and Start Containers
 
@@ -67,7 +67,7 @@ docker-compose up --build
 
 ---
 
-# 🌐 Application URLs
+# Application URLs
 
 Frontend:
 
@@ -89,7 +89,7 @@ mongodb://localhost:27017
 
 ---
 
-# 📦 Docker Services
+# Docker Services
 
 ## Client
 
@@ -109,7 +109,7 @@ mongodb://localhost:27017
 
 ---
 
-# 🔧 Environment Variables
+# Environment Variables
 
 Create a `.env` file inside the `server` folder.
 
@@ -122,7 +122,7 @@ MONGO_URI=mongodb://mongo:27017/sampledb
 
 ---
 
-# ▶️ Useful Docker Commands
+# Useful Docker Commands
 
 ## Start Containers
 
@@ -162,7 +162,7 @@ docker ps
 
 ---
 
-# 📚 Learning Goals
+# Learning Goals
 
 This project helps understand:
 
@@ -175,7 +175,7 @@ This project helps understand:
 
 ---
 
-# 🛠 Future Improvements
+# Future Improvements
 
 - Add authentication
 - Add MongoDB Atlas support
@@ -185,6 +185,6 @@ This project helps understand:
 
 ---
 
-# 📄 License
+# License
 
 This project is open-source and available under the MIT License.
